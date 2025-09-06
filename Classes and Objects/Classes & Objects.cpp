@@ -5,7 +5,7 @@ class computer {
 public:              //access specifier
 	string company;  //these are attributes of an object.
 	string model;
-	int storage;
+	int storage; 
 	int ram;
 
 	void switchOn() {     //methods are actions the object can do.
